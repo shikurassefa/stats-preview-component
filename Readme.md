@@ -5,6 +5,9 @@ This project is a responsive stats preview card component, showcasing the benefi
 ## Table of Contents
 
 - [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [The Challenge](#challenge)
+  - [Links](#links)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
@@ -16,8 +19,22 @@ This project is a responsive stats preview card component, showcasing the benefi
 
 The **Stats Preview Card Component** is designed to help users understand the advantages of analytics by providing clear statistics in an accessible layout.
 
-![Desktop Preview](./images/image-header-desktop.jpg)
-![Mobile Preview](./images/image-header-mobile.jpg)
+## Screenshot
+
+![](./images/Screenshot%202025-01-16%20at%2014-22-47%20stats-preview-component.png)
+
+## The Challenge
+
+Your challenge is to build out this stats-preview-Component and get it looking as close to the design as possible.
+
+Your users should be able to:
+
+- View the optimal layout for the interface depending on their device's screen size
+
+# Links
+
+- Solution URL: [https://github.com/shikurassefa/stats-preview-component]
+- Live Site URL: [https://stats-preview-component-sigma.vercel.app/]
 
 ## Features
 

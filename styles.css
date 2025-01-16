@@ -118,10 +118,10 @@ width: 25rem;
 {
   text-align: center;
 }
-.testimonials div 
+.number
 {
   color: #fff;
-font-size: 2rem;
+font-size: 1rem;
 font-weight: bold;
 }
 .testimonials p 
@@ -166,10 +166,7 @@ h1
 {
   font-size: 15px;
 }
-.number  
-{
-  font-size: 1rem;
-}
+
 .testimonials p 
 {
   font-size: 12px;
